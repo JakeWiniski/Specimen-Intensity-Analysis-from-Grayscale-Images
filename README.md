@@ -61,3 +61,7 @@ An overlay image is also displayed to verify correctness of the segmentation and
 - Ensure images are in grayscale or can be interpreted in grayscale.
 - The script skips any files that cannot be loaded or where no specimen is detected.
 - Errors encountered during processing are logged to the console.
+
+## AI Use Disclosure
+
+This project was developed with assistance from generative AI and coding-agent tools. AI was used for coding, debugging, and development support; analytical design, validation, interpretation, and final decisions were performed by the author.
